@@ -1,84 +1,77 @@
-[13:09:16] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[13:09:16] [Server thread/INFO]: Loading properties
-[13:09:16] [Server thread/INFO]: Default game type: CREATIVE
-[13:09:16] [Server thread/INFO]: Generating keypair
-[13:09:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:09:17] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[13:09:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[13:09:18] [Server thread/INFO]: [SignEdit] Loading SignEdit v3.3.9
-[13:09:18] [Server thread/INFO]: [RunAs] Loading RunAs v1.0.1
-[13:09:18] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
-[13:09:18] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
-[13:09:18] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
-[13:09:18] [Server thread/INFO]: [Speedcarts] Loading Speedcarts v1.3.5
-[13:09:18] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
-[13:09:18] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
-[13:09:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:09:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:09:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:09:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:09:18] [Server thread/INFO]: Preparing level "kevlar"
-[13:09:18] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
-[13:09:19] [Server thread/INFO]: Preparing spawn area: 3%
-[13:09:20] [Server thread/INFO]: Preparing spawn area: 53%
-[13:09:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
-[13:09:22] [Server thread/INFO]: Preparing spawn area: 70%
-[13:09:23] [Server thread/INFO]: Preparing spawn area: 96%
-[13:09:23] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
-[13:09:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[13:09:23] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:09:23] [Server thread/INFO]: [SignEdit] Enabling SignEdit v3.3.9
-[13:09:23] [Server thread/INFO]: [RunAs] Enabling RunAs v1.0.1
-[13:09:23] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
-[13:09:23] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
-[13:09:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
-[13:09:25] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[13:09:25] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[13:09:25] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
-[13:09:25] [Server thread/INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
-[13:09:25] [Server thread/INFO]: [Speedcarts] Checking for updates...
-[13:09:27] [Server thread/WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
-[13:09:27] [Server thread/INFO]: [Speedcarts] Speedcarts enabled!
-[13:09:27] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
-[13:09:27] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
-[13:09:28] [Server thread/INFO]: GroupManager - INFO - World Found: kevlar
-[13:09:28] [Server thread/INFO]: GroupManager - INFO - World Found: world
-[13:09:28] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
-[13:09:28] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
-[13:09:28] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
-[13:09:28] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
-[13:09:28] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
-[13:09:28] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
-[13:09:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:09:28] [Server thread/INFO]: Done (10.385s)! For help, type "help" or "?"
-[13:09:28] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
-[13:10:51] [Server thread/INFO]: Kevlar[/127.0.0.1:59490] logged in with entity id 200 at ([kevlar] -153.554405447212, 71.0, 675.463490067551)
-[13:10:53] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
-[13:10:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3609ms behind, skipping 72 tick(s)
-[13:11:19] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[13:11:20] [Server thread/INFO]: Kevlar left the game.
-[13:11:23] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[13:11:23] [Server thread/INFO]: Stopping server
-[13:11:23] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.11 (Phoenix)
-[13:11:23] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
-[13:11:23] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
-[13:11:23] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is disabled!
-[13:11:23] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
-[13:11:23] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[13:11:23] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[13:11:23] [Server thread/INFO]: [Speedcarts] Disabling Speedcarts v1.3.5
-[13:11:23] [Server thread/INFO]: [Speedcarts] Goodbye Speedcarts!
-[13:11:23] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
-[13:11:23] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
-[13:11:23] [Server thread/INFO]: [AntiCreeper] Disabling AntiCreeper v4.18.1
-[13:11:23] [Server thread/INFO]: [RunAs] Disabling RunAs v1.0.1
-[13:11:23] [Server thread/INFO]: [SignEdit] Disabling SignEdit v3.3.9
-[13:11:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
-[13:11:23] [Server thread/INFO]: Saving players
-[13:11:23] [Server thread/INFO]: Saving worlds
-[13:11:23] [Server thread/INFO]: Saving chunks for level 'kevlar'/Overworld
-[13:11:26] [Server thread/INFO]: Saving chunks for level 'kevlar_nether'/Nether
-[13:11:26] [Server thread/INFO]: Saving chunks for level 'kevlar_the_end'/The End
-[13:11:26] [Thread-4/INFO]: Stopping server
-[13:11:26] [Thread-4/INFO]: Saving players
-[13:11:26] [Thread-4/INFO]: Saving worlds
+[13:41:04] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[13:41:04] [Server thread/INFO]: Loading properties
+[13:41:04] [Server thread/INFO]: Default game type: CREATIVE
+[13:41:04] [Server thread/INFO]: Generating keypair
+[13:41:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:41:04] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[13:41:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[13:41:04] [Server thread/INFO]: [SignEdit] Loading SignEdit v3.3.9
+[13:41:04] [Server thread/INFO]: [RunAs] Loading RunAs v1.0.1
+[13:41:04] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[13:41:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[13:41:04] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[13:41:04] [Server thread/INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[13:41:04] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[13:41:04] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[13:41:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:41:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:41:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:41:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:41:04] [Server thread/INFO]: Preparing level "kevlar"
+[13:41:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[13:41:05] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[13:41:05] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[13:41:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[13:41:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:41:06] [Server thread/INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[13:41:06] [Server thread/INFO]: [RunAs] Enabling RunAs v1.0.1
+[13:41:06] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[13:41:06] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
+[13:41:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[13:41:06] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[13:41:06] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[13:41:06] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[13:41:06] [Server thread/INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[13:41:06] [Server thread/INFO]: [Speedcarts] Checking for updates...
+[13:41:09] [Server thread/WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[13:41:09] [Server thread/INFO]: [Speedcarts] Speedcarts enabled!
+[13:41:09] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[13:41:09] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[13:41:09] [Server thread/INFO]: GroupManager - INFO - World Found: kevlar
+[13:41:09] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[13:41:09] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[13:41:09] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[13:41:09] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[13:41:09] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[13:41:09] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[13:41:09] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[13:41:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:41:09] [Server thread/INFO]: Done (4.396s)! For help, type "help" or "?"
+[13:41:09] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[15:47:01] [Server thread/INFO]: Unknown command. Type "help" for help.
+[15:47:03] [Server thread/INFO]: CONSOLE: Stopping the server..
+[15:47:03] [Server thread/INFO]: Stopping server
+[15:47:03] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.11 (Phoenix)
+[15:47:03] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[15:47:03] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[15:47:03] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is disabled!
+[15:47:03] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[15:47:03] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:47:03] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:47:03] [Server thread/INFO]: [Speedcarts] Disabling Speedcarts v1.3.5
+[15:47:03] [Server thread/INFO]: [Speedcarts] Goodbye Speedcarts!
+[15:47:03] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[15:47:03] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[15:47:03] [Server thread/INFO]: [AntiCreeper] Disabling AntiCreeper v4.18.1
+[15:47:03] [Server thread/INFO]: [RunAs] Disabling RunAs v1.0.1
+[15:47:03] [Server thread/INFO]: [SignEdit] Disabling SignEdit v3.3.9
+[15:47:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[15:47:03] [Server thread/INFO]: Saving players
+[15:47:03] [Server thread/INFO]: Saving worlds
+[15:47:03] [Server thread/INFO]: Saving chunks for level 'kevlar'/Overworld
+[15:47:03] [Server thread/INFO]: Saving chunks for level 'kevlar_nether'/Nether
+[15:47:03] [Server thread/INFO]: Saving chunks for level 'kevlar_the_end'/The End
+[15:47:03] [Thread-4/INFO]: Stopping server
+[15:47:03] [Thread-4/INFO]: Saving players
+[15:47:03] [Thread-4/INFO]: Saving worlds
+[15:47:03] [Thread-4/INFO]: Saving chunks for level 'kevlar'/Overworld
