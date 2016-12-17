@@ -1,0 +1,11 @@
+# true/false - Should drops be cleared upon player death?
+clear-drops-on-death: false
+use-gui: true
+send-usage-kit: true
+gui:
+  gui-name: '&cKits'
+  items:
+    ender:
+      info: 373:69:0:&cender
+      lore:
+      - '&7This is the &9ender &7kit!'

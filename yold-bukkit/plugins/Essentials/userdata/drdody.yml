@@ -1,0 +1,28 @@
+uuid: ccc3ca0c-cbb1-3aee-a048-c5ab63904bb7
+timestamps:
+  login: 1451973442714
+  logout: 1451971594565
+  lastteleport: 1451971480716
+ipAddress: 50.137.44.117
+lastlocation:
+  world: kevlar
+  x: 1060.7564317954611
+  y: 98.11213943816696
+  z: -3113.181957969635
+  yaw: -145.79834
+  pitch: 26.099989
+afk: false
+logoutlocation:
+  world: kevlar
+  x: 22.699999988079053
+  y: 193.36549013828215
+  z: 1211.6577464978798
+  yaw: -209.09094
+  pitch: 90.0
+mail:
+- 'TheFlipper1000: changed purpclay in subway to bluewool'
+- 'Kevlar: Sorry had to reboot server. :)'
+ban:
+  reason: "\xa74Banned:\n\xa7rThe Ban Hammer has spoken!"
+  timeout: 0
+godmode: false

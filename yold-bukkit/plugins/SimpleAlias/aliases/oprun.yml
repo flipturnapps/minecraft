@@ -1,0 +1,14 @@
+General_Information:
+  Type: Multiple
+Execution_Settings:
+  Executor: Sender
+  Executable_As_Console: true
+  Commands: op <args:1>#run <args>#deop <args:1>
+Cooldown_Settings:
+  Enabled: false
+  Cooldown: 0
+Permission_Settings:
+  Enabled: true
+  Permission: SimpleAlias.alias.oprun
+Permitted_Groups:
+  Enabled: false

@@ -1,0 +1,20 @@
+uuid: cab90691-0126-3637-9d67-cdabbfe7e51f
+timestamps:
+  login: 1422111434972
+  lastteleport: 1422112786438
+  logout: 1422112953784
+ipAddress: 192.168.137.55
+lastlocation:
+  world: newgame
+  x: -129.56391458552682
+  y: 108.00133597911214
+  z: -92.49840577048211
+  yaw: -94.65051
+  pitch: 67.65
+logoutlocation:
+  world: newgame
+  x: -132.30000001192093
+  y: 106.0
+  z: -92.50401303862203
+  yaw: -120.60043
+  pitch: 44.70001

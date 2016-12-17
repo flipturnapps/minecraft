@@ -1,0 +1,23 @@
+uuid: fae7329c-d9bb-39df-ad1b-e198cba4de27
+timestamps:
+  login: 1473129948251
+  lastteleport: 1472699907462
+  logout: 1473130260484
+  mute: 0
+ipAddress: 50.188.140.91
+lastlocation:
+  world: kevlar
+  x: -342.17937341515403
+  y: 104.5784296618009
+  z: 370.91619149643736
+  yaw: 9.006378
+  pitch: 17.399939
+logoutlocation:
+  world: kevlar
+  x: 310.30000001192093
+  y: 74.45018080853357
+  z: 604.0754057151518
+  yaw: 239.42021
+  pitch: -5.849904
+afk: false
+muted: false

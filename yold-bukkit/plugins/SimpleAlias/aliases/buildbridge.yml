@@ -1,0 +1,14 @@
+General_Information:
+  Type: Multiple
+Execution_Settings:
+  Executor: Sender
+  Executable_As_Console: true
+  Commands: op <args:1>#run TheFlipper1000 tell <args:1> Sit tight and dont move!#run <args:1> warp look#run <args:1> pos1#run <args:1> pos2#run <args:1> expand 40#run <args:1> set diamondblock# deop <args:1>
+Cooldown_Settings:
+  Enabled: false
+  Cooldown: 0
+Permission_Settings:
+  Enabled: true
+  Permission: SimpleAlias.alias.buildbridge
+Permitted_Groups:
+  Enabled: false

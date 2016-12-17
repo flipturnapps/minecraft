@@ -1,0 +1,4 @@
+speedcarts:
+  non-block-tool: 284
+  check-for-updates: true
+  plugin-metrics: true
