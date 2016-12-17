@@ -4,4 +4,6 @@
 
 *~
 
-/yold-bukkit/plugins/
+*.disabled
+/omen/
+/spigot-new/
