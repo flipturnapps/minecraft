@@ -1,0 +1,7 @@
+*.jar
+
+*.bat
+
+*~
+
+/yold-bukkit/plugins/
