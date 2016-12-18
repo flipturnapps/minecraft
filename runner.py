@@ -12,16 +12,20 @@ def run(exe):
     print "running:  " + exe
     ct = currtime()
     while True:
-        line = p.stdout.readline()
-        time.sleep(.01)
-        if line != '':
-            print line.rstrip()
-            ct2 = currtime()
-            if ((ct2 - ct) > 20000):
+		try:
+			line = p.stdout.readline()
+		except ValueError:
+			print "ouch"
+			break
+		time.sleep(.01)
+		if line != '':
+			print line.rstrip()
+			ct2 = currtime()
+			if ((ct2 - ct) > 20000):
 				print "stoo"
 				p.communicate(input='stop')
-        else:
-            break
+		else:
+			break
 
 
 print "hello world"
