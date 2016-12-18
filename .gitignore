@@ -11,3 +11,4 @@
 /spigot-new/
 *sync-conflict**.log.gz
 *.log
+*.7z
