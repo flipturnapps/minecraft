@@ -17,8 +17,9 @@ def run(exe):
         if line != '':
             print line.rstrip()
             ct2 = currtime()
-            #if ((ct2 - ct) > 30000):
-                #p.communicate(input='stop')
+            if ((ct2 - ct) > 20000):
+				print "stoo"
+				p.communicate(input='stop')
         else:
             break
 
