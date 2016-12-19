@@ -12,3 +12,5 @@
 *sync-conflict**.log.gz
 *.log
 *.7z
+/yoldbukkit/logs/
+/yoldbukkit/plugins/GroupManager/backup/
