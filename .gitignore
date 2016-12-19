@@ -14,3 +14,4 @@
 *.7z
 /yoldbukkit/logs/
 /yoldbukkit/plugins/GroupManager/backup/
+/yold-bukkit/crash-reports/
