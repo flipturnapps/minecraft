@@ -6,8 +6,8 @@ import os
 import time
 import thread
 
-timelimit = .6*60*1000
-warnlimit = .1*60*1000
+timelimit = 3*60*1000
+warnlimit = 1*60*1000
 shouldPrint = False
 
 def currtime():
@@ -17,12 +17,12 @@ def run(exe):
 	print "running:  " + exe
 	thread.start_new_thread( killer, (p,"stuff") )
 	shouldPrint = True
-	while shouldPrint:
+	while (shouldPrint==True):
 		try:
 			line = p.stdout.readline()
 		except ValueError:
 			break
-		time.sleep(.001)
+		time.sleep(.1)
 		if line != '':
 			print line.rstrip()
 		else:
@@ -30,16 +30,20 @@ def run(exe):
 
 def killer(p,word):
 	ct = currtime()
-	warned = False
+	warned = 0
+	stopped = 0
 	while True:
+		time.sleep(.1)
 		ct2 = currtime()
-		if (warned != True and (ct2-ct) > (timelimit - warnlimit)):
+		if (warned == 0 and (ct2-ct) > (timelimit - warnlimit)):
 			p.communicate(input='say Server will shutdown in one minute')
-			warned = True
+			warned = 1
 			print "warned"
-		if ((ct2 - ct) > timelimit):
+		if (stopped == 0 and (ct2 - ct) > timelimit):
 			p.communicate(input='stop')
 			print "stopped"
+			shouldPrint = False
+			stopped = 1
 			break
 
 print "hello world"
