@@ -1,9 +1,9 @@
 uuid: cd3380bb-9a91-3be9-8d2f-225a88e3a5af
 timestamps:
-  login: 1476518576768
+  login: 1482462303978
   lastteleport: 1476516346802
   logout: 1476518618416
-ipAddress: 71.237.223.239
+ipAddress: 127.0.0.1
 lastlocation:
   world: kevlar
   x: 994.3067753938496
