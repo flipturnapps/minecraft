@@ -4740,3 +4740,9 @@
 [INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (15.0, 39.0, 506.0) - (15.0, 39.0, 563.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-14.0, 39.0, 566.0) - (15.0, 39.0, 566.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-14.0, 39.0, 564.0) - (13.0, 39.0, 564.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): /replace quartz tnt - Region: (19932.0, 200.0, 20123.0) - (19932.0, 222.0, 20147.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /schematic load aidansmit
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (19962.0, 226.0, 20118.0)
+[INFO] WorldEdit: assntitties (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (20003.0, 76.0, 20111.0)
