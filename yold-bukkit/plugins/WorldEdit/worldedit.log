@@ -4708,3 +4708,35 @@
 [INFO] WorldEdit: Korvallis (in "kevlar"): /paste - Position: (-9.0, 34.0, 534.0)
 [INFO] WorldEdit: Korvallis (in "kevlar"): /paste - Position: (-9.0, 19.0, 534.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (-12.0, 39.0, 502.0) - (-11.0, 41.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-12.0, 39.0, 502.0) - (-1.0, 41.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-3.0, 39.0, 505.0) - (-1.0, 41.0, 505.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set ari - Region: (-3.0, 39.0, 505.0) - (-1.0, 41.0, 525.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-3.0, 39.0, 505.0) - (-1.0, 41.0, 525.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (-13.0, 39.0, 563.0) - (-13.0, 41.0, 565.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-13.0, 39.0, 563.0) - (-3.0, 41.0, 565.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-5.0, 39.0, 562.0) - (-3.0, 41.0, 562.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-5.0, 39.0, 542.0) - (-3.0, 41.0, 562.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-5.0, 39.0, 542.0) - (-3.0, 41.0, 562.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (-5.0, 39.0, 542.0) - (-3.0, 41.0, 562.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-5.0, 39.0, 522.0) - (-3.0, 41.0, 562.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (-13.0, 39.0, 502.0) - (-13.0, 41.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-13.0, 39.0, 502.0) - (17.0, 41.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (15.0, 39.0, 505.0) - (17.0, 41.0, 505.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (15.0, 39.0, 505.0) - (17.0, 41.0, 535.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (-13.0, 39.0, 564.0) - (-13.0, 41.0, 566.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-13.0, 39.0, 564.0) - (17.0, 41.0, 566.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 30 - Region: (15.0, 39.0, 563.0) - (17.0, 41.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (15.0, 39.0, 533.0) - (17.0, 41.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-12.0, 39.0, 504.0) - (11.0, 39.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-12.0, 39.0, 502.0) - (15.0, 39.0, 502.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (4.0, 39.0, 504.0) - (13.0, 39.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (17.0, 39.0, 504.0) - (17.0, 39.0, 564.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (15.0, 39.0, 506.0) - (15.0, 39.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-14.0, 39.0, 566.0) - (15.0, 39.0, 566.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-14.0, 39.0, 564.0) - (13.0, 39.0, 564.0)
