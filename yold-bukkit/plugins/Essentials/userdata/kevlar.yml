@@ -1,25 +1,27 @@
 uuid: 04563d4c-6a5b-343e-81b6-8bc0e358b91d
 timestamps:
-  login: 1483986291975
-  lastteleport: 1483986982701
-  logout: 1483987193499
-ipAddress: 127.0.0.1
+  login: 1490121901666
+  lastteleport: 1490121240804
+  logout: 1490120990445
+ipAddress: 10.42.0.154
 lastlocation:
   world: kevlar
-  x: -367.8123954743265
-  y: 92.48034892387744
-  z: 572.9880311942403
-  yaw: -295.1876
-  pitch: 49.20011
+  x: 130.15390994466134
+  y: 66.0
+  z: 257.841765495333
+  yaw: 45.300003
+  pitch: 34.650005
 logoutlocation:
-  world: kevlar
-  x: 20014.410060382168
-  y: 155.76202518367725
-  z: 20085.056029312113
-  yaw: 101.4058
-  pitch: -13.499972
+  world: meilo-survival
+  x: 214.5
+  y: 73.0
+  z: 254.5
+  yaw: 0.0
+  pitch: 0.0
 ban:
-  reason: "\xa74Banned:\n\xa7rThe Ban Hammer has spoken!"
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
   timeout: 0
 afk: false
 godmode: false
