@@ -1,23 +1,23 @@
 uuid: 04563d4c-6a5b-343e-81b6-8bc0e358b91d
 timestamps:
-  login: 1490121901666
-  lastteleport: 1490121240804
-  logout: 1490120990445
+  login: 1490122643614
+  lastteleport: 1490124103730
+  logout: 1490124551776
 ipAddress: 10.42.0.154
 lastlocation:
   world: kevlar
-  x: 130.15390994466134
-  y: 66.0
-  z: 257.841765495333
-  yaw: 45.300003
-  pitch: 34.650005
+  x: -10048.315454977923
+  y: 119.48937758587034
+  z: -10009.33764122221
+  yaw: -132.15213
+  pitch: 5.250077
 logoutlocation:
-  world: meilo-survival
-  x: 214.5
-  y: 73.0
-  z: 254.5
-  yaw: 0.0
-  pitch: 0.0
+  world: kevlar
+  x: -411.49988738443443
+  y: 92.7633902623425
+  z: 585.1015074965413
+  yaw: -117.13855
+  pitch: 35.399918
 ban:
   reason: '§4Banned:
 
