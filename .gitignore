@@ -1,10 +1,10 @@
-*.jar
+
 
 *.bat
 
 *~
 
-*.disabled
+/yoldbukkit/craftbukkit.jar
 
 /omen/
 
