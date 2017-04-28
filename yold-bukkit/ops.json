@@ -80,11 +80,6 @@
     "level": 4
   },
   {
-    "uuid": "ce633377-0ef2-3206-a421-a4ef0b39e950",
-    "name": "Xevlar",
-    "level": 4
-  },
-  {
     "uuid": "c1fc3ace-e6b2-37ed-a575-03e0d777d7f1",
     "name": "k",
     "level": 4
@@ -102,11 +97,6 @@
   {
     "uuid": "04563d4c-6a5b-343e-81b6-8bc0e358b91d",
     "name": "Kevlar",
-    "level": 4
-  },
-  {
-    "uuid": "cd3380bb-9a91-3be9-8d2f-225a88e3a5af",
-    "name": "Korvallis",
     "level": 4
   }
 ]
