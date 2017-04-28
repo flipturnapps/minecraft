@@ -53,10 +53,10 @@ set:
           z: 583
           yaw: 155
         flag:
-          x: 45
-          y: 71
-          z: 549
-          yaw: 273
+          x: 49
+          y: 67
+          z: 562
+          yaw: 90
     navy:
       config:
         spawnstyle: big

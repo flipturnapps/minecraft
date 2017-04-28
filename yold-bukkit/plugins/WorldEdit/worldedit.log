@@ -4820,3 +4820,57 @@
 [INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (69.0, 81.0, 563.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): /expand 4 d - Region: (60.0, 67.0, 562.0) - (70.0, 80.0, 569.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): /replace 159:11 159:14 - Region: (60.0, 63.0, 562.0) - (70.0, 80.0, 569.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set stone - Region: (47.0, 63.0, 515.0) - (100.0, 65.0, 584.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set stone - Region: (65.0, 65.0, 515.0) - (100.0, 65.0, 518.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /schematic save stadcorner
+[INFO] WorldEdit: Kevlar (in "kevlar"): /
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (154.0, 90.0, 504.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /flip
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (155.0, 93.0, 527.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (155.0, 103.0, 529.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (165.0, 109.0, 528.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (115.0, 72.0, 521.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (115.0, 72.0, 520.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (77.0, 65.0, 549.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (107.0, 62.0, 511.0) - (107.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (101.0, 62.0, 511.0) - (101.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (98.0, 62.0, 511.0) - (98.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (92.0, 62.0, 511.0) - (92.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (89.0, 62.0, 511.0) - (89.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (83.0, 62.0, 511.0) - (83.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (80.0, 62.0, 511.0) - (80.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (74.0, 62.0, 511.0) - (74.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (71.0, 62.0, 511.0) - (71.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (65.0, 62.0, 511.0) - (65.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (62.0, 62.0, 511.0) - (62.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (56.0, 62.0, 511.0) - (56.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (53.0, 62.0, 511.0) - (53.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set ironblock - Region: (109.0, 62.0, 511.0) - (109.0, 74.0, 511.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /replace air ironbars - Region: (53.0, 63.0, 511.0) - (109.0, 65.0, 511.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 5 u - Region: (55.0, 63.0, 533.0) - (107.0, 63.0, 565.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set smoothsandstone - Region: (73.0, 66.0, 580.0) - (97.0, 67.0, 580.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (107.0, 64.0, 565.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 24:2 - Region: (73.0, 66.0, 580.0) - (97.0, 67.0, 580.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (55.0, 64.0, 533.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (107.0, 64.0, 565.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 24:2 - Region: (73.0, 66.0, 518.0) - (90.0, 67.0, 518.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set bluewool - Region: (62.0, 68.0, 518.0) - (100.0, 68.0, 518.0)
