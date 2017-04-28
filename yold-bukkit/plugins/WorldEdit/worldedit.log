@@ -4784,3 +4784,39 @@
 [INFO] WorldEdit: Korvallis (in "kevlar"): thru
 [INFO] WorldEdit: Korvallis (in "kevlar"): /
 [INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 2 b - Region: (57.0, 83.0, 518.0) - (61.0, 86.0, 520.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 2 b - Region: (57.0, 83.0, 518.0) - (61.0, 86.0, 520.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 2 f - Region: (57.0, 83.0, 516.0) - (61.0, 86.0, 520.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (104.0, 82.0, 583.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 1800
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate -1800
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (104.0, 82.0, 583.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (104.0, 82.0, 584.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (80.0, 80.0, 572.0) - (81.0, 80.0, 572.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:14 - Region: (80.0, 80.0, 562.0) - (81.0, 80.0, 572.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (80.0, 80.0, 526.0) - (81.0, 80.0, 526.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:14 - Region: (80.0, 80.0, 526.0) - (81.0, 80.0, 536.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:11 - Region: (80.0, 80.0, 526.0) - (81.0, 80.0, 536.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 15 - Region: (69.0, 80.0, 563.0) - (70.0, 80.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:14 - Region: (69.0, 80.0, 548.0) - (70.0, 80.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (69.0, 80.0, 563.0) - (70.0, 80.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:14 - Region: (69.0, 80.0, 553.0) - (70.0, 80.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (91.0, 80.0, 535.0) - (92.0, 80.0, 535.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:11 - Region: (91.0, 80.0, 535.0) - (92.0, 80.0, 545.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (69.0, 80.0, 553.0) - (69.0, 80.0, 554.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:14 - Region: (69.0, 80.0, 553.0) - (79.0, 80.0, 554.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (91.0, 80.0, 544.0) - (91.0, 80.0, 545.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:11 - Region: (81.0, 80.0, 544.0) - (91.0, 80.0, 545.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 4 d - Region: (91.0, 67.0, 529.0) - (101.0, 80.0, 536.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (69.0, 81.0, 563.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 4 d - Region: (60.0, 67.0, 562.0) - (70.0, 80.0, 569.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /replace 159:11 159:14 - Region: (60.0, 63.0, 562.0) - (70.0, 80.0, 569.0)

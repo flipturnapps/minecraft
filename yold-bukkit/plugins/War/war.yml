@@ -16,16 +16,17 @@ set:
       - test
       - sphere
       - adventure
+      - stadium
       zonemakers:
       - tommytony
       commandwhitelist:
       - who
       warhub:
-        x: -204
-        y: 89
-        z: 613
+        x: -52
+        y: 110
+        z: 578
         world: kevlar
-        orientation: east
+        orientation: south
         materials:
           floor:
             ==: org.bukkit.inventory.ItemStack
