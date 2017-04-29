@@ -1,23 +1,23 @@
 uuid: cd3380bb-9a91-3be9-8d2f-225a88e3a5af
 timestamps:
-  login: 1493403886879
-  lastteleport: 1493327234806
-  logout: 1493405592242
-ipAddress: 10.42.0.144
+  login: 1493496930154
+  lastteleport: 1493497434014
+  logout: 1493496885935
+ipAddress: 10.0.0.2
 lastlocation:
   world: kevlar
-  x: 99.75233158512782
-  y: 81.15610485755866
-  z: 739.3127887176519
-  yaw: 73.06366
-  pitch: 6.1498923
+  x: 77.5020045955369
+  y: 74.24313514222133
+  z: 556.6351037178927
+  yaw: 161.70679
+  pitch: 17.099989
 logoutlocation:
   world: kevlar
-  x: -455.0
-  y: 86.0
-  z: 513.0
-  yaw: 180.0
-  pitch: 0.0
+  x: 101.11092307543436
+  y: 78.98690953829575
+  z: 532.9105540683893
+  yaw: -328.0388
+  pitch: 10.950041
 afk: false
 godmode: false
 money: '50'

@@ -2,6 +2,8 @@ set:
   warzone:
     stadium:
       config:
+        monumentheal: 3
+        nodrops: false
         resetonload: true
         unbreakable: true
       info:
@@ -39,6 +41,20 @@ set:
           light:
             ==: org.bukkit.inventory.ItemStack
             type: GLOWSTONE
+        monument:
+          names:
+          - red1
+          - navy1
+          red1:
+            x: 56
+            y: 63
+            z: 567
+            yaw: 23
+          navy1:
+            x: 106
+            y: 63
+            z: 531
+            yaw: 229
   team:
     names:
     - red
@@ -46,6 +62,107 @@ set:
     red:
       config:
         spawnstyle: big
+      loadout:
+        tank:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: IRON_SWORD
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 2
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_CHESTPLATE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 3
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_LEGGINGS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 3
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 3
+                PROTECTION_FALL: 10
+        sniper:
+          slots:
+          - 0
+          - 1
+          - 2
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: WOOD_SWORD
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                DURABILITY: 10
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 2
+                KNOCKBACK: 2
+                ARROW_INFINITE: 1
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+        default:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          '0': &id001
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_SWORD
+          '1': &id002
+            ==: org.bukkit.inventory.ItemStack
+            type: IRON_CHESTPLATE
+          '2': &id003
+            ==: org.bukkit.inventory.ItemStack
+            type: IRON_LEGGINGS
+          '3': &id004
+            ==: org.bukkit.inventory.ItemStack
+            type: IRON_BOOTS
+          '4': &id005
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+          '5': &id006
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 7
+        names:
+        - tank
+        - sniper
+        - default
       info:
         spawns:
         - x: 104
@@ -60,6 +177,94 @@ set:
     navy:
       config:
         spawnstyle: big
+      loadout:
+        tank:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: IRON_SWORD
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 2
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_CHESTPLATE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 3
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_LEGGINGS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 3
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 3
+                PROTECTION_FALL: 10
+        sniper:
+          slots:
+          - 0
+          - 1
+          - 2
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: WOOD_SWORD
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                DURABILITY: 10
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 2
+                KNOCKBACK: 2
+                ARROW_INFINITE: 1
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+        default:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          '0': *id001
+          '1': *id002
+          '2': *id003
+          '3': *id004
+          '4': *id005
+          '5': *id006
+        names:
+        - tank
+        - sniper
+        - default
       info:
         spawns:
         - x: 56

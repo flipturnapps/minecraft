@@ -39,6 +39,62 @@ set:
           light:
             ==: org.bukkit.inventory.ItemStack
             type: GLOWSTONE
+        monument:
+          names:
+          - castle
+          - overlook
+          - bridges
+          - swamp
+          - blackspawn
+          - foreset
+          - clearing
+          - whitespawn
+          - castle-deck
+          castle:
+            x: -427
+            y: 83
+            z: 452
+            yaw: 101
+          overlook:
+            x: -442
+            y: 75
+            z: 494
+            yaw: 169
+          bridges:
+            x: -407
+            y: 78
+            z: 419
+            yaw: 44
+          swamp:
+            x: -361
+            y: 62
+            z: 416
+            yaw: 10
+          blackspawn:
+            x: -360
+            y: 90
+            z: 357
+            yaw: 27
+          foreset:
+            x: -424
+            y: 70
+            z: 347
+            yaw: 353
+          clearing:
+            x: -467
+            y: 63
+            z: 392
+            yaw: 248
+          whitespawn:
+            x: -497
+            y: 96
+            z: 500
+            yaw: 161
+          castle-deck:
+            x: -430
+            y: 92
+            z: 450
+            yaw: 190
   team:
     names:
     - white

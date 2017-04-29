@@ -1,27 +1,25 @@
 uuid: 04563d4c-6a5b-343e-81b6-8bc0e358b91d
 timestamps:
-  login: 1493403721014
-  lastteleport: 1493403476351
-  logout: 1493400991190
-ipAddress: 10.42.0.154
+  login: 1493500156818
+  lastteleport: 1493500637503
+  logout: 1493501565020
+ipAddress: 10.0.0.3
 lastlocation:
   world: kevlar
-  x: 128.71492065010375
-  y: 91.66009795159036
-  z: 555.8632253906416
-  yaw: 91.65002
-  pitch: 31.949999
+  x: -397.9545341621732
+  y: 110.26953219112528
+  z: 401.6861327171388
+  yaw: -142.95036
+  pitch: 46.050232
 logoutlocation:
   world: kevlar
-  x: 71.66298880694899
-  y: 60.0
-  z: 578.699999988079
-  yaw: 337.05328
-  pitch: -52.499985
+  x: -455.0
+  y: 86.0
+  z: 513.0
+  yaw: 180.0
+  pitch: 0.0
 ban:
-  reason: '§4Banned:
-
-    §rThe Ban Hammer has spoken!'
+  reason: "\xa74Banned:\n\xa7rThe Ban Hammer has spoken!"
   timeout: 0
 afk: false
 godmode: false
