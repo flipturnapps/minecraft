@@ -4880,3 +4880,138 @@
 [INFO] WorldEdit: Korvallis (in "kevlar"): /
 [INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
 [INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /schematic save adventure-castle
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12065.0, 97.0, 21281.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 107.0, 21294.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /hsphere 10 159:11 - Position: (12247.0, 106.0, 21265.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /hsphere 159:11 11 - Position: (12247.0, 106.0, 21265.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /hsphere 159:11 7 - Position: (12250.0, 108.0, 21265.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pyramid 159:11 8 - Position: (12249.0, 110.0, 21262.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pyramid 159:11 15 - Position: (12254.0, 103.0, 21259.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pyramid 159:14 15 - Position: (12174.0, 103.0, 21265.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pyramid 159:14 15 - Position: (12171.0, 102.0, 21259.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /hpyramid 159:14 15 - Position: (12165.0, 103.0, 21261.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /hpyramid 159:14 20 - Position: (12167.0, 103.0, 21252.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /hsphere 159:14 9 - Position: (12169.0, 103.0, 21254.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 15 b - Region: (12178.0, 99.0, 21252.0) - (12178.0, 99.0, 21256.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set 159:14 - Region: (12178.0, 99.0, 21252.0) - (12193.0, 99.0, 21256.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12178.0, 99.0, 21252.0) - (12193.0, 99.0, 21256.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 15 b - Region: (12167.0, 99.0, 21263.0) - (12171.0, 99.0, 21263.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12167.0, 99.0, 21263.0) - (12171.0, 99.0, 21278.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12203.0, 106.0, 21302.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12202.0, 105.0, 21302.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12201.0, 104.0, 21302.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12200.0, 103.0, 21302.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 6 u - Region: (12196.0, 98.0, 21308.0) - (12231.0, 99.0, 21308.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 105.0, 21307.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 104.0, 21308.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 103.0, 21309.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 102.0, 21310.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 101.0, 21312.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 101.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 100.0, 21312.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 99.0, 21313.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 98.0, 21314.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 4 u - Region: (12231.0, 92.0, 21282.0) - (12231.0, 102.0, 21316.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 2 d - Region: (12231.0, 92.0, 21282.0) - (12231.0, 106.0, 21316.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12232.0, 98.0, 21310.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12232.0, 100.0, 21307.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12232.0, 100.0, 21307.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12231.0, 92.0, 21316.0) - (12231.0, 92.0, 21316.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 u - Region: (12231.0, 92.0, 21266.0) - (12231.0, 92.0, 21316.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12232.0, 97.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12232.0, 97.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12233.0, 96.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12234.0, 95.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12235.0, 94.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12236.0, 93.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12237.0, 92.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12238.0, 91.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12239.0, 90.0, 21311.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12240.0, 93.0, 21282.0) - (12240.0, 93.0, 21282.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 u - Region: (12190.0, 93.0, 21282.0) - (12240.0, 93.0, 21282.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 5 d - Region: (12190.0, 93.0, 21282.0) - (12240.0, 113.0, 21282.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 101.0, 21282.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 100.0, 21281.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 99.0, 21280.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 98.0, 21279.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 97.0, 21278.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 96.0, 21277.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 95.0, 21276.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 94.0, 21275.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 93.0, 21274.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 92.0, 21273.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 91.0, 21272.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12205.0, 90.0, 21270.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 - Region: (12196.0, 82.0, 21271.0) - (12196.0, 90.0, 21316.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 20 u - Region: (12196.0, 83.0, 21272.0) - (12196.0, 91.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12196.0, 92.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12195.0, 91.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12194.0, 90.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12193.0, 89.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12192.0, 88.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12191.0, 87.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12190.0, 86.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12189.0, 85.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12188.0, 84.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12187.0, 83.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12186.0, 82.0, 21315.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pos1 - Position: (12152.317158422095, 86.45273285595698, 21239.25025638867)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pos2 - Position: (12194.394764060828, 122.79982276718945, 21282.098848457128)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12231.0, 103.0, 21282.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12231.0, 103.0, 21284.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12228.0, 103.0, 21306.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12230.0, 103.0, 21306.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12200.0, 103.0, 21308.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12200.0, 103.0, 21306.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12201.0, 103.0, 21306.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 5 b - Region: (12167.0, 101.0, 21332.0) - (12171.0, 101.0, 21332.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12167.0, 101.0, 21332.0) - (12171.0, 101.0, 21337.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 3 b - Region: (12167.0, 101.0, 21332.0) - (12171.0, 101.0, 21337.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12167.0, 101.0, 21332.0) - (12171.0, 101.0, 21340.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 1 b - Region: (12167.0, 101.0, 21332.0) - (12171.0, 101.0, 21340.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12167.0, 101.0, 21332.0) - (12171.0, 101.0, 21341.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12171.0, 101.0, 21337.0) - (12176.0, 101.0, 21341.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12167.0, 101.0, 21252.0) - (12176.0, 101.0, 21256.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12167.0, 101.0, 21256.0) - (12171.0, 101.0, 21261.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (12261.0, 94.0, 21249.0) - (12265.0, 94.0, 21253.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12261.0, 101.0, 21249.0) - (12265.0, 101.0, 21258.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12256.0, 101.0, 21249.0) - (12261.0, 101.0, 21253.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set air - Region: (12261.0, 94.0, 21336.0) - (12265.0, 94.0, 21340.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
