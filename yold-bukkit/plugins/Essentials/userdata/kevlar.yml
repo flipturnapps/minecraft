@@ -1,9 +1,9 @@
 uuid: 04563d4c-6a5b-343e-81b6-8bc0e358b91d
 timestamps:
-  login: 1493589765802
+  login: 1493674647393
   lastteleport: 1493589826229
   logout: 1493592691615
-ipAddress: 192.168.1.1
+ipAddress: 127.0.0.1
 lastlocation:
   world: kevlar
   x: 34343.5
@@ -19,9 +19,7 @@ logoutlocation:
   yaw: 294.4493
   pitch: -18.599873
 ban:
-  reason: '§4Banned:
-
-    §rThe Ban Hammer has spoken!'
+  reason: "\xa74Banned:\n\xa7rThe Ban Hammer has spoken!"
   timeout: 0
 afk: false
 godmode: false
