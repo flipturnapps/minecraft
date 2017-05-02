@@ -5143,3 +5143,16 @@
 [INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
 [INFO] WorldEdit: Kevlar (in "kevlar"): /undo
 [INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Korvallis (in "kevlar"): /wand
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set stone - Region: (12199.0, 62.0, 21289.0) - (12212.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12211.0, 62.0, 21289.0) - (12212.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12211.0, 62.0, 21289.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12211.0, 62.0, 21289.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12211.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12211.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12161.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12161.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12111.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12111.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12111.0, 62.0, 21239.0) - (12262.0, 62.0, 21355.0)

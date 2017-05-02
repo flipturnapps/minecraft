@@ -1,12 +1,19 @@
 uuid: 206af22d-f18f-3f7c-8d42-b73249e145e0
 timestamps:
-  login: 1493404692634
-  logout: 1493405623403
+  login: 1493746629490
+  logout: 1493747937343
 ipAddress: 127.0.0.1
 logoutlocation:
   world: kevlar
-  x: -455.0
-  y: 86.0
-  z: 513.0
-  yaw: 180.0
+  x: 12286.0
+  y: 88.0
+  z: 21294.0
+  yaw: 90.0
   pitch: 0.0
+lastlocation:
+  world: kevlar
+  x: -458.2655165401426
+  y: 86.0
+  z: 512.4993640417783
+  yaw: 51.44999
+  pitch: 28.500004
