@@ -17,6 +17,7 @@ set:
       - sphere
       - adventure
       - stadium
+      - skycastle
       zonemakers:
       - tommytony
       commandwhitelist:

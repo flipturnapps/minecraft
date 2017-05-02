@@ -5097,3 +5097,49 @@
 [INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12169.0, 100.0, 21330.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
 [INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12169.0, 100.0, 21263.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 15 - Region: (12213.0, 99.0, 21334.0) - (12217.0, 99.0, 21334.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12213.0, 99.0, 21319.0) - (12217.0, 99.0, 21334.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /expand 3 - Region: (12213.0, 99.0, 21319.0) - (12217.0, 99.0, 21334.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stonebrick - Region: (12213.0, 99.0, 21316.0) - (12217.0, 99.0, 21334.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate -90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12215.0, 100.0, 21340.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12215.0, 100.0, 21340.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12168.0, 100.0, 21299.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /copy
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12169.0, 100.0, 21265.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12169.0, 100.0, 21265.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12169.0, 100.0, 21328.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /redo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12180.0, 100.0, 21339.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /rotate 180
+[INFO] WorldEdit: Kevlar (in "kevlar"): /paste - Position: (12180.0, 100.0, 21339.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pos1 - Position: (12282.437061628472, 48.0, 21231.69639234837)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pos2 - Position: (12147.226258498133, 146.60611172372083, 21365.889967388142)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pos1 - Position: (12155.689658998775, 131.88683739127114, 21354.04526197887)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /pos2 - Position: (12155.689658998775, 131.88683739127114, 21354.04526197887)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12155.0, 131.0, 21354.0) - (12155.0, 131.0, 21354.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): /undo
