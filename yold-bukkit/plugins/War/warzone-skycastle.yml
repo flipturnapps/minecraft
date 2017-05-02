@@ -96,57 +96,21 @@ set:
           - 3
           - 4
           - 5
+          - 6
+          - 7
           '0':
             ==: org.bukkit.inventory.ItemStack
-            type: ARROW
-            amount: 5
+            type: ENDER_PEARL
+            amount: 8
           '1':
             ==: org.bukkit.inventory.ItemStack
-            type: BOW
+            type: STICK
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
+              display-name: mage-stabber
               enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '2':
-            ==: org.bukkit.inventory.ItemStack
-            type: WOOD_SWORD
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '3':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16421
-        troll:
-          slots:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          '0':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 8229
-          '1':
-            ==: org.bukkit.inventory.ItemStack
-            type: ARROW
+                DAMAGE_ALL: 4
           '2':
             ==: org.bukkit.inventory.ItemStack
             type: BOW
@@ -154,34 +118,33 @@ set:
               ==: ItemMeta
               meta-type: UNSPECIFIC
               enchants:
+                ARROW_KNOCKBACK: 2
                 ARROW_INFINITE: 1
           '3':
             ==: org.bukkit.inventory.ItemStack
-            type: STICK
+            type: BLAZE_ROD
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
-              display-name: stabber
-              lore:
-              - ouch
-              enchants:
-                DAMAGE_ALL: 4
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: ENDER_PEARL
-            amount: 4
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: STICK
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              display-name: wand
-              lore:
-              - make'em'fly
+              display-name: pusher
               enchants:
                 KNOCKBACK: 10
-        default:
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8229
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+        scout:
           slots:
           - 0
           - 1
@@ -190,33 +153,132 @@ set:
           - 4
           - 5
           - 6
-          '0': &id001
+          '0':
             ==: org.bukkit.inventory.ItemStack
-            type: ARROW
-          '1': &id002
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8258
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Speed
+              repair-cost: 2
+          '3':
             ==: org.bukkit.inventory.ItemStack
             type: BOW
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
               enchants:
-                DURABILITY: 2
-                KNOCKBACK: 2
-                ARROW_INFINITE: 1
-          '2': &id003
+                ARROW_DAMAGE: 3
+          '4':
             ==: org.bukkit.inventory.ItemStack
-            type: STONE_SWORD
+            type: ARROW
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: GOLD_AXE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: Hatchet
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: LEATHER_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: LEATHER_ARMOR
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 2
+                PROTECTION_FALL: 2
+        pyro:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_BOOTS
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
               enchants:
-                DURABILITY: 2
-                KNOCKBACK: 2
-          '3': &id004
+                PROTECTION_FIRE: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 5
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 1
+                DAMAGE_ALL: 3
+                ARROW_KNOCKBACK: 1
+                ARROW_FIRE: 2
+                KNOCKBACK: 1
+                FIRE_ASPECT: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+        tank:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          '0':
             ==: org.bukkit.inventory.ItemStack
             type: POTION
             damage: 8261
-          '4': &id005
+          '1':
             ==: org.bukkit.inventory.ItemStack
             type: CHAINMAIL_CHESTPLATE
             meta:
@@ -224,16 +286,42 @@ set:
               meta-type: UNSPECIFIC
               enchants:
                 PROTECTION_FIRE: 2
-          '5': &id006
+          '2':
             ==: org.bukkit.inventory.ItemStack
             type: CHAINMAIL_LEGGINGS
-          '6': &id007
+          '3':
             ==: org.bukkit.inventory.ItemStack
             type: CHAINMAIL_BOOTS
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank bow
+              enchants:
+                ARROW_DAMAGE: 1
+                ARROW_KNOCKBACK: 1
+                ARROW_INFINITE: 1
+              repair-cost: 2
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: STONE_SWORD
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank sword
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
         names:
         - mage
-        - troll
-        - default
+        - scout
+        - pyro
+        - tank
       info:
         spawns:
         - x: 12169
@@ -252,57 +340,21 @@ set:
           - 3
           - 4
           - 5
+          - 6
+          - 7
           '0':
             ==: org.bukkit.inventory.ItemStack
-            type: ARROW
-            amount: 5
+            type: ENDER_PEARL
+            amount: 8
           '1':
             ==: org.bukkit.inventory.ItemStack
-            type: BOW
+            type: STICK
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
+              display-name: mage-stabber
               enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '2':
-            ==: org.bukkit.inventory.ItemStack
-            type: WOOD_SWORD
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '3':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16421
-        troll:
-          slots:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          '0':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 8229
-          '1':
-            ==: org.bukkit.inventory.ItemStack
-            type: ARROW
+                DAMAGE_ALL: 4
           '2':
             ==: org.bukkit.inventory.ItemStack
             type: BOW
@@ -310,34 +362,33 @@ set:
               ==: ItemMeta
               meta-type: UNSPECIFIC
               enchants:
+                ARROW_KNOCKBACK: 2
                 ARROW_INFINITE: 1
           '3':
             ==: org.bukkit.inventory.ItemStack
-            type: STICK
+            type: BLAZE_ROD
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
-              display-name: stabber
-              lore:
-              - ouch
-              enchants:
-                DAMAGE_ALL: 4
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: ENDER_PEARL
-            amount: 4
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: STICK
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              display-name: wand
-              lore:
-              - make'em'fly
+              display-name: pusher
               enchants:
                 KNOCKBACK: 10
-        default:
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8229
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+        scout:
           slots:
           - 0
           - 1
@@ -346,17 +397,175 @@ set:
           - 4
           - 5
           - 6
-          '0': *id001
-          '1': *id002
-          '2': *id003
-          '3': *id004
-          '4': *id005
-          '5': *id006
-          '6': *id007
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8258
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Speed
+              repair-cost: 2
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 3
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: GOLD_AXE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: Hatchet
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: LEATHER_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: LEATHER_ARMOR
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 2
+                PROTECTION_FALL: 2
+        pyro:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_FIRE: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 5
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 1
+                DAMAGE_ALL: 3
+                ARROW_KNOCKBACK: 1
+                ARROW_FIRE: 2
+                KNOCKBACK: 1
+                FIRE_ASPECT: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+        tank:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_CHESTPLATE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_FIRE: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_LEGGINGS
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_BOOTS
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank bow
+              enchants:
+                ARROW_DAMAGE: 1
+                ARROW_KNOCKBACK: 1
+                ARROW_INFINITE: 1
+              repair-cost: 2
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: STONE_SWORD
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank sword
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
         names:
         - mage
-        - troll
-        - default
+        - scout
+        - pyro
+        - tank
       info:
         spawns:
         - x: 12169
@@ -375,57 +584,21 @@ set:
           - 3
           - 4
           - 5
+          - 6
+          - 7
           '0':
             ==: org.bukkit.inventory.ItemStack
-            type: ARROW
-            amount: 5
+            type: ENDER_PEARL
+            amount: 8
           '1':
             ==: org.bukkit.inventory.ItemStack
-            type: BOW
+            type: STICK
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
+              display-name: mage-stabber
               enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '2':
-            ==: org.bukkit.inventory.ItemStack
-            type: WOOD_SWORD
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '3':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16421
-        troll:
-          slots:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          '0':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 8229
-          '1':
-            ==: org.bukkit.inventory.ItemStack
-            type: ARROW
+                DAMAGE_ALL: 4
           '2':
             ==: org.bukkit.inventory.ItemStack
             type: BOW
@@ -433,34 +606,33 @@ set:
               ==: ItemMeta
               meta-type: UNSPECIFIC
               enchants:
+                ARROW_KNOCKBACK: 2
                 ARROW_INFINITE: 1
           '3':
             ==: org.bukkit.inventory.ItemStack
-            type: STICK
+            type: BLAZE_ROD
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
-              display-name: stabber
-              lore:
-              - ouch
-              enchants:
-                DAMAGE_ALL: 4
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: ENDER_PEARL
-            amount: 4
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: STICK
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              display-name: wand
-              lore:
-              - make'em'fly
+              display-name: pusher
               enchants:
                 KNOCKBACK: 10
-        default:
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8229
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+        scout:
           slots:
           - 0
           - 1
@@ -469,17 +641,175 @@ set:
           - 4
           - 5
           - 6
-          '0': *id001
-          '1': *id002
-          '2': *id003
-          '3': *id004
-          '4': *id005
-          '5': *id006
-          '6': *id007
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8258
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Speed
+              repair-cost: 2
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 3
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: GOLD_AXE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: Hatchet
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: LEATHER_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: LEATHER_ARMOR
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 2
+                PROTECTION_FALL: 2
+        pyro:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_FIRE: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 5
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 1
+                DAMAGE_ALL: 3
+                ARROW_KNOCKBACK: 1
+                ARROW_FIRE: 2
+                KNOCKBACK: 1
+                FIRE_ASPECT: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+        tank:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_CHESTPLATE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_FIRE: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_LEGGINGS
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_BOOTS
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank bow
+              enchants:
+                ARROW_DAMAGE: 1
+                ARROW_KNOCKBACK: 1
+                ARROW_INFINITE: 1
+              repair-cost: 2
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: STONE_SWORD
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank sword
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
         names:
         - mage
-        - troll
-        - default
+        - scout
+        - pyro
+        - tank
       info:
         spawns:
         - x: 12263
@@ -498,57 +828,21 @@ set:
           - 3
           - 4
           - 5
+          - 6
+          - 7
           '0':
             ==: org.bukkit.inventory.ItemStack
-            type: ARROW
-            amount: 5
+            type: ENDER_PEARL
+            amount: 8
           '1':
             ==: org.bukkit.inventory.ItemStack
-            type: BOW
+            type: STICK
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
+              display-name: mage-stabber
               enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '2':
-            ==: org.bukkit.inventory.ItemStack
-            type: WOOD_SWORD
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              enchants:
-                FIRE_ASPECT: 1
-                DURABILITY: 2
-                KNOCKBACK: 1
-          '3':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16460
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 16421
-        troll:
-          slots:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          '0':
-            ==: org.bukkit.inventory.ItemStack
-            type: POTION
-            damage: 8229
-          '1':
-            ==: org.bukkit.inventory.ItemStack
-            type: ARROW
+                DAMAGE_ALL: 4
           '2':
             ==: org.bukkit.inventory.ItemStack
             type: BOW
@@ -556,34 +850,33 @@ set:
               ==: ItemMeta
               meta-type: UNSPECIFIC
               enchants:
+                ARROW_KNOCKBACK: 2
                 ARROW_INFINITE: 1
           '3':
             ==: org.bukkit.inventory.ItemStack
-            type: STICK
+            type: BLAZE_ROD
             meta:
               ==: ItemMeta
               meta-type: UNSPECIFIC
-              display-name: stabber
-              lore:
-              - ouch
-              enchants:
-                DAMAGE_ALL: 4
-          '4':
-            ==: org.bukkit.inventory.ItemStack
-            type: ENDER_PEARL
-            amount: 4
-          '5':
-            ==: org.bukkit.inventory.ItemStack
-            type: STICK
-            meta:
-              ==: ItemMeta
-              meta-type: UNSPECIFIC
-              display-name: wand
-              lore:
-              - make'em'fly
+              display-name: pusher
               enchants:
                 KNOCKBACK: 10
-        default:
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8229
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+        scout:
           slots:
           - 0
           - 1
@@ -592,17 +885,175 @@ set:
           - 4
           - 5
           - 6
-          '0': *id001
-          '1': *id002
-          '2': *id003
-          '3': *id004
-          '4': *id005
-          '5': *id006
-          '6': *id007
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8226
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Swiftness
+              repair-cost: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8258
+            meta:
+              ==: ItemMeta
+              meta-type: POTION
+              display-name: Speed
+              repair-cost: 2
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 3
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: GOLD_AXE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: Hatchet
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: LEATHER_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: LEATHER_ARMOR
+              enchants:
+                PROTECTION_ENVIRONMENTAL: 2
+                PROTECTION_FALL: 2
+        pyro:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: DIAMOND_BOOTS
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_FIRE: 2
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 5
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16453
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                ARROW_DAMAGE: 1
+                DAMAGE_ALL: 3
+                ARROW_KNOCKBACK: 1
+                ARROW_FIRE: 2
+                KNOCKBACK: 1
+                FIRE_ASPECT: 2
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+          '7':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 16420
+        tank:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: POTION
+            damage: 8261
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_CHESTPLATE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              enchants:
+                PROTECTION_FIRE: 2
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_LEGGINGS
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: CHAINMAIL_BOOTS
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank bow
+              enchants:
+                ARROW_DAMAGE: 1
+                ARROW_KNOCKBACK: 1
+                ARROW_INFINITE: 1
+              repair-cost: 2
+          '5':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+          '6':
+            ==: org.bukkit.inventory.ItemStack
+            type: STONE_SWORD
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: tank sword
+              enchants:
+                KNOCKBACK: 1
+              repair-cost: 2
         names:
         - mage
-        - troll
-        - default
+        - scout
+        - pyro
+        - tank
       info:
         spawns:
         - x: 12263
