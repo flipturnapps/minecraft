@@ -5157,3 +5157,23 @@
 [INFO] WorldEdit: Kevlar (in "kevlar"): /expand 50 - Region: (12111.0, 62.0, 21239.0) - (12262.0, 62.0, 21305.0)
 [INFO] WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (12111.0, 62.0, 21239.0) - (12262.0, 62.0, 21355.0)
 [INFO] WorldEdit: CrunchyCaffiene (in "kevlar"): /help kit
+[INFO] WorldEdit: Korvallis (in "kevlar"): /wand
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12022.0, 66.0, 21203.0) - (12051.0, 92.0, 21231.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12027.0, 35.0, 21212.0) - (12027.0, 70.0, 21219.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12027.0, 35.0, 21212.0) - (12046.0, 70.0, 21219.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12033.0, 35.0, 21206.0) - (12040.0, 70.0, 21225.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12029.0, 35.0, 21210.0) - (12044.0, 70.0, 21221.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12031.0, 35.0, 21208.0) - (12042.0, 70.0, 21223.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12032.0, 35.0, 21207.0) - (12041.0, 65.0, 21224.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 90 - Region: (12028.0, 35.0, 21211.0) - (12045.0, 35.0, 21220.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12028.0, 35.0, 21211.0) - (12045.0, 35.0, 21220.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: Korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12028.0, 35.0, 21211.0) - (12045.0, 70.0, 21220.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /set 0 - Region: (12030.0, 35.0, 21209.0) - (12043.0, 70.0, 21222.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /replace 17:2 air - Region: (12485.0, 63.0, 21330.0) - (12543.0, 80.0, 21391.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /replace 18:2 air - Region: (12485.0, 63.0, 21330.0) - (12543.0, 80.0, 21391.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /replace grass air - Region: (12485.0, 63.0, 21330.0) - (12543.0, 80.0, 21391.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /replace grass air - Region: (12485.0, 62.0, 21391.0) - (12485.0, 63.0, 21391.0)
+[INFO] WorldEdit: Korvallis (in "kevlar"): /replace grass sir - Region: (12485.0, 63.0, 21330.0) - (12543.0, 80.0, 21391.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
