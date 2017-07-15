@@ -1,0 +1,19 @@
+uuid: 9d4ba6c5-33f4-3baa-882a-01de6c51c2a5
+timestamps:
+  login: 1500085867512
+  lastteleport: 1500085877095
+ipAddress: 192.168.1.3
+logoutlocation:
+  world: kevlar
+  x: 142.44672200756972
+  y: 64.0
+  z: 272.4314093659944
+  yaw: -108.00002
+  pitch: -6.7500167
+lastlocation:
+  world: kevlar
+  x: 12281.300000011921
+  y: 91.61463400578373
+  z: 21292.528603736522
+  yaw: 43.500275
+  pitch: -20.999998
