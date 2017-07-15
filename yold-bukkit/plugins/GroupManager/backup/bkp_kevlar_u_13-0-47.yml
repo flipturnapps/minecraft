@@ -1,0 +1,120 @@
+users:
+  04563d4c-6a5b-343e-81b6-8bc0e358b91d:
+    lastname: Kevlar
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&r&2'
+  04ccff6d-d55e-3432-a3b2-6a50337c8d14:
+    lastname: nathan
+    group: Builder
+    subgroups: []
+    permissions: []
+  0cf09b04-6fab-3032-93db-693b3838f73d:
+    lastname: ASSSSSSS
+    group: Builder
+    subgroups: []
+    permissions: []
+  3e78db10-fc51-388e-b26d-344264cd1b17:
+    lastname: ChloeBDSM
+    group: Builder
+    subgroups: []
+    permissions: []
+  4667ed63-fe52-3fc6-969c-625551214508:
+    lastname: Dubby
+    group: Builder
+    subgroups: []
+    permissions: []
+  495990ba-329f-3aa3-8182-e3045c7a684e:
+    lastname: GmaTit
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&1XXX_SexGod_'
+  60174fc4-d4a6-3c3d-9d31-9cd178ce44c0:
+    lastname: aviatorwolf
+    group: Builder
+    subgroups: []
+    permissions: []
+  62738b54-f1dd-3357-976f-6f4c3053b306:
+    lastname: MickeyAndPluto
+    group: Builder
+    subgroups: []
+    permissions: []
+  7c3f6b8d-2d5f-3467-ab96-6a8af4f58ffb:
+    lastname: korvallis
+    group: Builder
+    subgroups: []
+    permissions:
+    - essentials.warp
+    info:
+      prefix: '&0'
+  a7a7a832-71a4-3e7e-a336-102f84998390:
+    lastname: Stanior
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&1'
+  ca3fe6a8-1f8b-32a6-9508-16d34ffd5c6d:
+    lastname: hungerblock
+    group: Builder
+    subgroups: []
+    permissions: []
+  ccc3ca0c-cbb1-3aee-a048-c5ab63904bb7:
+    lastname: DrDody
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&6'
+  cd3380bb-9a91-3be9-8d2f-225a88e3a5af:
+    lastname: Korvallis
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&r&b'
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f4739e5b-c342-32fb-a61f-7842055a8b09:
+    lastname: MASHTHEKEYBOARD
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: ''
+  f80ae004-526b-312f-9fb4-8ccaf485e5f7:
+    lastname: SawyoloTheGreat
+    group: Builder
+    subgroups: []
+    permissions:
+    - essentials.warp
+    - essentials.warp.*
+  faa54245-2efe-355a-aa01-63e6cfd903ff:
+    lastname: Huskymaster2015
+    group: Builder
+    subgroups: []
+    permissions: []
+  fae7329c-d9bb-39df-ad1b-e198cba4de27:
+    lastname: AMS12DUCK
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&9'
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
